@@ -1,4 +1,3 @@
 helo
-today is wednesday
-hello
+today is wed
 good morning
